@@ -1,12 +1,12 @@
 # Pregnancy-Risk-Prediction-
 
-Overview
+## Overview
 This project aims to address the challenge of high-risk pregnancies in developing nations, particularly Nigeria. It focuses on women from lower and middle-income backgrounds who often lack access to proper healthcare and awareness about potential pregnancy complications.
 
-Objective
+## Objective
 The main goal is to develop a machine learning classification model and a web application to predict the risk level of pregnancy complications. The model classifies patients into low, medium, or high-risk categories based on various health factors during pregnancy.
 
-Features
+## Features
 Utilizes an AdaBoost machine learning model for predictions
 Web application built with Streamlit for easy user interaction
 Predicts pregnancy risk levels based on key health indicators
